@@ -13,6 +13,7 @@ unzip /tmp/frontend.zip
 
 ##we need to copy config file
 
+
 echo -e "\e[33mStarting Nginx Server\e[0m"
 systemctl enable nginx
 systemctl restart nginx
